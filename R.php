@@ -1,0 +1,1 @@
+<script> window.location="welcome.php"; </script>

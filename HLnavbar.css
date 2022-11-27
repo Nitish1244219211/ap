@@ -1,0 +1,30 @@
+/*.offcanvas-body{
+  color:white;
+  //background-color:green; 
+  
+}
+.navbar-nav{
+  background-color:gray; 
+}
+.nav-item{
+  //background-color:greenyellow; 
+}
+.nav-link{
+  background-color:greenyellow; 
+}*/
+
+.offcanvas{
+  //width:70%;
+  border-radius:80px;
+//  filter: opacity(50%);
+//  filter: blur(2px);
+//  border-outline:9px;
+  background-color: #ffffff;
+    color: #000000;
+    opacity: .85;
+  //padding-y:5px;
+//  drop-shadow(16px 16px 10px green)
+}
+.cc{
+  //color:white;
+}
